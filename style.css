@@ -343,17 +343,17 @@ input[type="submit"]{
 	  margin-left: auto;
 	  border-radius: 15px; 
   }
-  
   .messages {
 	  display: flex;
 	  flex-direction: column;
 	  overflow: scroll;
 	  height: 90%;
 	  width: 100%;
-	  background-color: rgb(92, 227, 92);
+	  background-color: rgb(61, 228, 67);
 	  padding: 15px;
 	  margin: 15px;
 	  border-radius: 10px;
+ 
   }
   
   #bot {
