@@ -2,7 +2,7 @@
 const prompts = [
   ["hi"],["college","what is college address","college address","address of college"],["chairman","Chairman"] ,["Principle","principle"],["cse hod","Cse hod"],["canteen","Canteen"],["results"],["College timings","college timings","timings of college"],
   ["number of branches","how many branches available","Branches","branches available"],["holidays"],["CSE Staff","cse staff"],["ECE Staff","ece staff"],["EEE Staff","eee staff"],["MECHANICAL Staff","mechanical staff"],
-  ["CIVIL Staff","civil staff"],["HBS staff","hbs staff","first year staff"],["Transportation","transport","Trasport","bus facility","bus facility"],["library","Library"],["parking","Parking"],["placements","Placements"],["ground","Ground","Playground","playground"],
+  ["CIVIL Staff","civil staff"],["HBS staff","hbs staff","first year staff"],["Transportation","transport","Trasport","bus facility","bus facility"],["library","Library"],["parking","Parking"],["placements","Placements"],["ground","Ground","Playground","playground"]
 ]
 
 // Possible responses, in corresponding order
