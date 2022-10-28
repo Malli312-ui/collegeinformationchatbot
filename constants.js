@@ -2,8 +2,7 @@
 const prompts = [
   ["hi"],["college","what is college address","college address","address of college"],["chairman","Chairman"] ,["Principle","principle"],["cse hod","Cse hod"],["canteen","Canteen"],["results"],["College timings","college timings","timings of college"],
   ["number of branches","how many branches available","Branches","branches available"],["holidays"],["CSE Staff","cse staff"],["ECE Staff","ece staff"],["EEE Staff","eee staff"],["MECHANICAL Staff","mechanical staff"],
-  ["CIVIL Staff","civil staff"],["HBS staff","hbs staff"],["is there bus facility","bus facility"],["Is there library","library","Library"],["parking","parking","where is parking"],["hostel","Hostel"]
-]
+  ["CIVIL Staff","civil staff"],["HBS staff","hbs staff"],["is there bus facility","bus facility"],["Is there library","library","Library"],[""]
 
 // Possible responses, in corresponding order
 
@@ -16,8 +15,7 @@ const replies = [
   ["Dr. Tayi Srikanth,K.L.N.Murthy,Sri. Gorsa Ravi Kumar,Smt. R. Vijaya Lakshmi,Sri. Ch.Raju,Sri N. D. Kameswara Rao,Ms. P. Anusha,Mr. P. Rambabu,Mr. M. Nirmal Devi Kiran"],
   ["Mr. Angadi Srinivas,Ms. Kothara Santhi,Smt T B N Satya Sirisha,Sri Sayyed Nazeer Ahmed,Sri. R. Kiran Kumar,Kum.Madireddy Geeta Sri,Kum. V.T.D. Kalyani,Sri. M.T.Ramesh Naidu,Smt M. Neelima"],
   ["Dr. Chodisetty V V S N Murthy,Dr. K Srihari Varma,Smt. K. Vijaya. Lakshmi,Smt. Kanakam Akella,Smt. M. Bhagyalakshmi,Smt. S. Surya Kumari Padala,Kum. V.S.G. Aiswarya,Sri N Rahul Khanna,Smt. Sirisha Meenavalli,Sri M Jahir Khadarir,Sri. K Saibabu,Sri. Gampala Kasiyya,Ms. K. Geethika,Ms. S. Divya,Smt K Anooradha"]
-  ["yes, bus facility is available"],["As a center of intense intellectual inquiry, the Library shares with the college the aspiration to be the most dynamic learning environment."],["beautiful and peaceful place are there"],["As a center of intense intellectual inquiry, the Library shares with the college the aspiration to be the most dynamic learning environment."]
-]
+  ["yes, bus facility is available"],["As a center of intense intellectual inquiry, the Library shares with the college the aspiration to be the most dynamic learning environment."],["beautiful and peaceful place are there],
 
 
 // Random for any other user input
