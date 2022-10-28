@@ -2,7 +2,7 @@
 const prompts = [
   ["hi"],["college","what is college address","college address","address of college"],["chairman","Chairman"] ,["Principle","principle"],["cse hod","Cse hod"],["canteen","Canteen"],["results"],["College timings","college timings","timings of college"],
   ["number of branches","how many branches available","Branches","branches available"],["holidays"],["CSE Staff","cse staff"],["ECE Staff","ece staff"],["EEE Staff","eee staff"],["MECHANICAL Staff","mechanical staff"],
-  ["CIVIL Staff","civil staff"],["HBS staff","hbs staff","first year staff"],["Transportation","transport","Trasport","bus facility",bus facility],["library","Library"]
+  ["CIVIL Staff","civil staff"],["HBS staff","hbs staff","first year staff"],["Transportation","transport","Trasport","bus facility",bus facility],["library","Library"],["parking","Parking"],["placements","Placements"],["ground","Ground","Playground","playground"],[""]
 ]
 
 // Possible responses, in corresponding order
@@ -15,18 +15,15 @@ const replies = [
   ["Sri A.Ramesh,Sri. D.Madhu,Sri. Madaka jagadeesh,Kum N Raja Veni,Smt. Bhusam Lalita Kumari,Sri. G. Kiran Kumar,Sri Tammanapudi Veerababu"],
   ["Dr. Tayi Srikanth,K.L.N.Murthy,Sri. Gorsa Ravi Kumar,Smt. R. Vijaya Lakshmi,Sri. Ch.Raju,Sri N. D. Kameswara Rao,Ms. P. Anusha,Mr. P. Rambabu,Mr. M. Nirmal Devi Kiran"],
   ["Mr. Angadi Srinivas,Ms. Kothara Santhi,Smt T B N Satya Sirisha,Sri Sayyed Nazeer Ahmed,Sri. R. Kiran Kumar,Kum.Madireddy Geeta Sri,Kum. V.T.D. Kalyani,Sri. M.T.Ramesh Naidu,Smt M. Neelima"],
-  ["Dr. Chodisetty V V S N Murthy,Dr. K Srihari Varma,Smt. K. Vijaya. Lakshmi,Smt. Kanakam Akella,Smt. M. Bhagyalakshmi,Smt. S. Surya Kumari Padala,Kum. V.S.G. Aiswarya,Sri N Rahul Khanna,Smt. Sirisha Meenavalli,Sri M Jahir Khadarir,Sri. K Saibabu,Sri. Gampala Kasiyya,Ms. K. Geethika,Ms. S. Divya,Smt K Anooradha"],["the college has employed qualified and experienced drivers.as there are limited buses/seats transport facility will be provided on first come first serve"]
- 
+  ["Dr. Chodisetty V V S N Murthy,Dr. K Srihari Varma,Smt. K. Vijaya. Lakshmi,Smt. Kanakam Akella,Smt. M. Bhagyalakshmi,Smt. S. Surya Kumari Padala,Kum. V.S.G. Aiswarya,Sri N Rahul Khanna,Smt. Sirisha Meenavalli,Sri M Jahir Khadarir,Sri. K Saibabu,Sri. Gampala Kasiyya,Ms. K. Geethika,Ms. S. Divya,Smt K Anooradha"],["the college has employed qualified and experienced drivers.as there are limited buses/seats transport facility will be provided on first come first serve"],["As a center of intense intellectual inquiry, the Library shares with the college the aspiration to be the most dynamic learning environment."],["parking facility available"],
+  ["Communication Skills Training,Soft Skills Training,Life Skills"],["A vast playground with provisions for playing outdoor games like cricket,volleybal,shuttle are in place"]
 ]
 
 
 // Random for any other user input
 
 const alternative = [
-  "Same",
-  "Go on...",
-  "Try again",
-  "I'm listening...",
+  "sorry i don't understand",
   "I don't understand :/"
 ]
 
