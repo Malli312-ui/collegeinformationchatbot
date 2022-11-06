@@ -5,7 +5,7 @@ const prompts = [
   ["CIVIL Staff","civil staff"],["HBS staff","hbs staff","first year staff"],["Transportation","transport","Trasport","bus facility","bus facility"],["library","Library"],["parking","Parking"],["placements","Placements"],["ground","Ground","Playground","playground"],["who are you"],["how are you","How are you"]
 ]
 
-// Possible responses, in corresponding order
+// Possible responses, in corresponding 
 
 const replies = [
   ["Hello","Hey!","Hii"],["ideal institute of technology vidyutnagar,kakinada,approved by aicte-new delhi&affilated by JNTU-KAKINADA"],["Dr. Paruchuri Krishna Rao M.Sc., Ph.D."],["Dr. T. Srikanth,Ph.D."],
