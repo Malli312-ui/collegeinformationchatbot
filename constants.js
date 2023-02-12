@@ -9,7 +9,7 @@ const prompts = [
 
 const replies = [
   ["Hello","Hey!","Hii"],["ideal institute of technology vidyutnagar,kakinada,approved by aicte-new delhi&affilated by JNTU-KAKINADA"],["Dr. Paruchuri Krishna Rao M.Sc., Ph.D."],["Dr. T. Srikanth,Ph.D."],
-  ["Mr. M.S.R.S. Prasad M.Tech.[Ph.D],Computer Science Engineering Department.if you fail to plan-you are planning to fail."],["Mr. N. Rajesh Babu has taken charge of this prestigious department in the year 2021"],["Canteen facility available in the college."],["you need to paste this url in browser https://www.results.idealtech.edu.in/"],["9:30 AM to 4:10 PM"],
+  ["Mr. M.S.R.S. Prasad M.Tech.[Ph.D],Computer Science Engineering Department"],["Mr. N. Rajesh Babu has taken charge of this prestigious department in the year 2021"],["Canteen facility available in the college."],["you need to paste this url in browser https://www.results.idealtech.edu.in/"],["9:30 AM to 4:10 PM"],
   ["Number of Branches : 5 -CSE(AI),CSE(ML),ECE,EEE,MECH"],["Every second saturday and sunday is holiday and all the public holidays are given"],["Sri. Merla Sri Ravi Sankara Prasad,Smt. P. Radhika Krupalini,Sri R S V V Prasad Rao,Smt. R.V.V.Gani Lakshmi,Smt M Jayasree,Smt S Jyothirmayee,Mr. M. V. V. Chowdary,Mr. K. Ramesh,Mrs. P. Usha Visweswari,MR. S. V. V. S. Gangadhar,Ms. P. Sai Sowjanya,Ms. P. Viswajyothi,Ms.A. Meghana"],
   ["Sri. N. Rajesh Babu,Sri. Bh V S R K Ayyappa Kumar,Sri. B V Kalyan Ram,Sri Ch.Venkata Prakash,Sri. V.K.A.S. Krishnan,Smt.D.Vijaya Lakshmi,Sri P S J Sreeram,Sri. Mortha Varaprasad,Smt. T. Adi Varalakshmi Devi"],
   ["Sri A.Ramesh,Sri. D.Madhu,Sri. Madaka jagadeesh,Kum N Raja Veni,Smt. Bhusam Lalita Kumari,Sri. G. Kiran Kumar,Sri Tammanapudi Veerababu"],
